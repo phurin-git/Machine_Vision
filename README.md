@@ -1,10 +1,10 @@
 # Machine Vision Project with Python and OpenCV
 
-This repository features a machine vision project using Python and OpenCV to detect various geometric shapes, including circles, triangles, rectangles, and pentagons. The project provides a graphical user interface (GUI) with three tabs to facilitate real-time object detection, camera calibration, and filter parameter adjustment.
+This repository features a machine vision project using Python and OpenCV to detect various geometric shapes, including circles, triangles, rectangles, and pentagons. The project provides a graphical user interface (GUI) with three tabs to facilitate real-time object inspection, camera calibration, and filter parameter adjustment.
 
 ## Features
 
-- Object Detection: Detects and identifies geometric shapes (circles, triangles, rectangles, pentagons) in real-time using OpenCV filters.
+- Object Inspection: Detects/inspect and identifies geometric shapes (circles, triangles, rectangles, pentagons) in real-time using OpenCV filters.
 - GUI Interface: Includes a user-friendly GUI with three tabs for different functionalities:
     - Measurement Tab: Displays real-time object detection results and visualizes the identified shapes.
     - Calibration Tab: Provides tools for calibrating the camera using a checkerboard pattern to improve accuracy.
